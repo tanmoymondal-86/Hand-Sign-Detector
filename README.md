@@ -57,7 +57,3 @@ jupyter notebook train_model.ipynb
 ```bash
 python sign_detector.py
 ```
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
