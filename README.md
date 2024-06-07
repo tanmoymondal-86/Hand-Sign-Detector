@@ -39,6 +39,8 @@ In a terminal or command window, navigate to the top-level project directory Han
 ![2](./images/example_2.jpg?raw=true "2")
 ![3](./images/example_3.jpg?raw=true "3")
 ![4](./images/example_4.jpg?raw=true "4")
+<br>
+
 ![5](./images/example_5.jpg?raw=true "5")
 ![6](./images/example_6.jpg?raw=true "6")
 ![7](./images/example_7.jpg?raw=true "7")
