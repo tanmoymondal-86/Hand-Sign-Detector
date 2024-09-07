@@ -1,1 +1,4 @@
 data
+.venv
+.vscode
+.ipynb_checkpoints
